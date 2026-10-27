@@ -8,3 +8,6 @@ icloud.html
 icloud-full.html
 config.bat
 node_modules
+
+*.orc
+api.js
